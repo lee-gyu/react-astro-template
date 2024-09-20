@@ -1,0 +1,5 @@
+vitest
+astro
+biomejs
+
+tsconfigs

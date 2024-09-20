@@ -1,0 +1,16 @@
+{
+    "name": "@lee-gyu/app",
+    "private": true,
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "astro dev"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "astro": "^4.15.8"
+    }
+}
